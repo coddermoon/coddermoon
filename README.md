@@ -10,7 +10,7 @@ I'm Mahamodul Hasan Moon from Bangladesh, and I do content on Design and Develop
 
 📫 How to reach me: coddermoon@gmail.com
 
-⚡ Fun fact **I Think i'm funny too :)**
+⚡ Fun fact **I Think i'm funny too 😃**
 <br/><br/>
 
 #### :muscle: Things I am challenging myself with:
