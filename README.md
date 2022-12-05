@@ -52,7 +52,7 @@ I'm Mahamodul Hasan Moon from Bangladesh, and I do content on Design and Develop
 
 ## ❤ Views and Followers
 
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=coddermoon&label=PROFILE+VIEWS)
 <a href="https://github.com/coddermoon?tab=followers">
 <img src="https://img.shields.io/github/followers/coddermoon?label=Followers&style=social" alt="GitHub Badge"  height="30"></a><br/>
 
