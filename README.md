@@ -36,3 +36,11 @@ I'm Mahamodul Hasan Moon from Bangladesh, and I do content on Design and Develop
 
 
 </p>
+
+
+## ❤ Views and Followers
+
+<a href="https://github.com/dipakkr/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=dipakkr">
+</a>
+<a href="https://github.com/coddermoon?tab=followers"><img src="https://img.shields.io/github/followers/coddermoon?label=Followers&style=social" alt="GitHub Badge"></a>
