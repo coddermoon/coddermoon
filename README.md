@@ -28,7 +28,7 @@ I'm Mahamodul Hasan Moon from Bangladesh, and I do content on Design and Develop
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Tools</h2>
 
 <br>
-<p align="center">
+<p align="left">
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/> </a>
