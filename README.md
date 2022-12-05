@@ -29,8 +29,8 @@ I'm Mahamodul Hasan Moon from Bangladesh, and I do content on Design and Develop
 
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/Figma-#9D56F7?style=for-the-badge&logo=figma&logoColor=white" height="30"/> 
-<img src="https://img.shields.io/badge/VS-Code-#9D56F7?style=for-the-badge&logo=vscode&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/Figma-9D56F7?style=for-the-badge&logo=figma&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/VS-Code-9D56F7?style=for-the-badge&logo=vscode&logoColor=white" height="30"/> 
 
 </p>
 <br/>
