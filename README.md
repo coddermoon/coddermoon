@@ -4,6 +4,25 @@
 
 I'm Mahamodul Hasan Moon from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
+🌱 I’m currently learning MERN Stack Development
+
+💬 Ask me about **Web Solutions**
+
+📫 How to reach me: coddermoon@gmail.com
+
+⚡ Fun fact **I Think i'm funny too :)**
+<br/><br/>
+
+#### :muscle: Things I am challenging myself with:
+
+- Waking up earlier to make good use of the day
+- Coding at least 4 hours a day
+- Exercising 3 days a week
+- Improving my CV with some education apart from university
+
+<br />
+
+
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Technologies that I know</h2>
 
 <br>
