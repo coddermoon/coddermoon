@@ -37,7 +37,7 @@ I'm Mahamodul Hasan Moon from Bangladesh, and I do content on Design and Develop
 
 </p>
 
-<br/>
+
 ## ❤ Views and Followers
 
 <a href="https://github.com/dipakkr/github-profile-views-counter">
