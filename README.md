@@ -24,6 +24,16 @@ I'm Mahamodul Hasan Moon from Bangladesh, and I do content on Design and Develop
 </p>
 <br/>
 
+<!-- tools -->
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Tools</h2>
+
+<br>
+<!-- <p align="center">
+<img src="https://img.shields.io/badge/Figma-E34F26?style=for-the-badge&logo=figma&logoColor=white" height="30"/> 
+
+</p> -->
+<br/>
+
 <!-- social links -->
 
 ## Connect with me:
