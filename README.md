@@ -20,7 +20,7 @@ I'm Mahamodul Hasan Moon from Bangladesh, and I do content on Design and Develop
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="30"/>
      <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="30"/>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" height="30"/>
-     <img src="https://img.shields.io/badge/-express-F29111?style=flat&logo=express&logoColor=FFFFFF" height="30"/>
+     <img src="https://img.shields.io/badge/-express-20232A?style=flat&logo=express&logoColor=FFFFFF" height="30"/>
 </p>
 <br/>
 
@@ -29,7 +29,7 @@ I'm Mahamodul Hasan Moon from Bangladesh, and I do content on Design and Develop
 
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/Figma-E34F26?style=for-the-badge&logo=figma&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=white" height="30"/> 
 
 </p>
 <br/>
